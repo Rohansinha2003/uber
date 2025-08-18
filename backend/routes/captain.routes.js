@@ -1,4 +1,4 @@
-const captainController = require('../controllers/captain.controller');
+const captainController = require('../controllers/caption.controller');
 const express = require('express');
 const router = express.Router();
 const { body } = require("express-validator")
